@@ -1,0 +1,25 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "My first canvas game",
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack server --hot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bopo9/canvas-snake.git"
+  },
+  "author": "Borys Shcherbina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bopo9/canvas-snake/issues"
+  },
+  "homepage": "https://github.com/bopo9/canvas-snake#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.3"
+  }
+}
